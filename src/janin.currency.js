@@ -78,5 +78,5 @@ janin.currency = {
 
 janin.currencies = [
     //                    name, networkVersion, privateKeyPrefix, WIF_Start, CWIF_Start, donate
-    janin.currency.createCurrency ("HyperStake", 0x75, 0xf5, "9",    "d"    , "p71G6VRVxTTxg3Hqa9CbENeJY1PumBjtvL")
+    janin.currency.createCurrency ("Neoscoin",   0x35, 0xb1, "6",    "T"    , "NZw6WJPiKYcXxua1VveieihiNJRYanHjrP")
                    ];
